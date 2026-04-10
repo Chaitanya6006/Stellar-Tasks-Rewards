@@ -28,16 +28,28 @@ https://stellar-tasks-rewards-n1b7h3s57-chaitanya6006s-projects.vercel.app
 
 ## 📸 Working Screenshots :
 
-Dashbord <img width="1919" height="867" alt="Screenshot 2026-03-26 135135" src="https://github.com/user-attachments/assets/20aa8ffc-6f10-42c0-a92a-d65670a48b43" />
+Dashbord
+<img width="1919" height="867" alt="Screenshot 2026-03-26 135135" src="https://github.com/user-attachments/assets/20aa8ffc-6f10-42c0-a92a-d65670a48b43" />
 
-Wallet connect <img width="1919" height="890" alt="Screenshot 2026-03-26 135156" src="https://github.com/user-attachments/assets/18e44ef5-8d8e-45f2-9449-ff2acc942879" />
 
-Profile <img width="1918" height="946" alt="Screenshot 2026-03-26 135113" src="https://github.com/user-attachments/assets/d26fbee7-1565-47df-9f65-a2635ec94fda" />
+ Tasks
+ <img width="1919" height="890" alt="Screenshot 2026-03-26 135156" src="https://github.com/user-attachments/assets/18e44ef5-8d8e-45f2-9449-ff2acc942879" />
 
-Leader Board <img width="1918" height="865" alt="Screenshot 2026-03-26 140018" src="https://github.com/user-attachments/assets/404a635a-2d79-43c2-9f3e-83a6e6fc2c03" />
 
+Wallet Connect
+<img width="1918" height="946" alt="Screenshot 2026-03-26 135113" src="https://github.com/user-attachments/assets/d26fbee7-1565-47df-9f65-a2635ec94fda" />
+
+
+ 
+Profile
+<img width="1918" height="865" alt="Screenshot 2026-03-26 140018" src="https://github.com/user-attachments/assets/404a635a-2d79-43c2-9f3e-83a6e6fc2c03" />
+
+
+LeaderBoard
 <img width="1916" height="882" alt="Screenshot 2026-03-26 140246" src="https://github.com/user-attachments/assets/58a017fe-bf62-41f3-ac47-096e764b909c" />
 
+
+Real Token Balance
 <img width="1388" height="731" alt="Screenshot 2026-03-26 140427" src="https://github.com/user-attachments/assets/77de5bd9-2d8c-4f92-807f-e117d50c924d" />
 
 

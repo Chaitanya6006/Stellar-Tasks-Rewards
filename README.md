@@ -28,13 +28,13 @@ https://stellar-tasks-rewards-n1b7h3s57-chaitanya6006s-projects.vercel.app
 
 ## 📸 Working Screenshots :
 
-<img width="1919" height="867" alt="Screenshot 2026-03-26 135135" src="https://github.com/user-attachments/assets/20aa8ffc-6f10-42c0-a92a-d65670a48b43" />
+Dashbord <img width="1919" height="867" alt="Screenshot 2026-03-26 135135" src="https://github.com/user-attachments/assets/20aa8ffc-6f10-42c0-a92a-d65670a48b43" />
 
-<img width="1919" height="890" alt="Screenshot 2026-03-26 135156" src="https://github.com/user-attachments/assets/18e44ef5-8d8e-45f2-9449-ff2acc942879" />
+Wallet connect <img width="1919" height="890" alt="Screenshot 2026-03-26 135156" src="https://github.com/user-attachments/assets/18e44ef5-8d8e-45f2-9449-ff2acc942879" />
 
-<img width="1918" height="946" alt="Screenshot 2026-03-26 135113" src="https://github.com/user-attachments/assets/d26fbee7-1565-47df-9f65-a2635ec94fda" />
+Profile <img width="1918" height="946" alt="Screenshot 2026-03-26 135113" src="https://github.com/user-attachments/assets/d26fbee7-1565-47df-9f65-a2635ec94fda" />
 
-<img width="1918" height="865" alt="Screenshot 2026-03-26 140018" src="https://github.com/user-attachments/assets/404a635a-2d79-43c2-9f3e-83a6e6fc2c03" />
+Leader Board <img width="1918" height="865" alt="Screenshot 2026-03-26 140018" src="https://github.com/user-attachments/assets/404a635a-2d79-43c2-9f3e-83a6e6fc2c03" />
 
 <img width="1916" height="882" alt="Screenshot 2026-03-26 140246" src="https://github.com/user-attachments/assets/58a017fe-bf62-41f3-ac47-096e764b909c" />
 
@@ -49,16 +49,13 @@ CONTRACT_ID : `CA5RPNPLWGDNPCTFGGULF2SS7Y4PEGQT5ULJ5XJTE52423PLBFBTODE3`
  View On Stellar Expert :  
   https://stellar.expert/explorer/testnet/tx/7320677266788352#7320677266788353
 
----
+-View On Stellar Expert :
+<img width="1916" height="887" alt="Screenshot 2026-04-10 233223" src="https://github.com/user-attachments/assets/62cd0189-f719-4766-8483-cc07f585e6b4" />
+
 
 ## 🔁 Freighter Transaction History :
 
-<img width="1916" height="887" alt="Screenshot 2026-04-10 233223" src="https://github.com/user-attachments/assets/622dcc4d-ae1c-4c0f-8167-f9947517927a" />
-
-
-
-👉 View on Stellar Expert:  
-https://stellar.expert/explorer/testnet/tx/abc123xyz456  
+<img width="576" height="878" alt="Screenshot 2026-04-10 233733" src="https://github.com/user-attachments/assets/505531c0-0e17-47fd-9cd0-71d31fb9d0e7" />
 
 
 ## 🎥 Working Demo Video :

@@ -107,13 +107,13 @@ export default function TaskList() {
         <div className={`w-8 h-8 rounded-full bg-gradient-to-br ${dotClass} shadow-[0_0_15px_rgba(0,0,0,0.3)]`}></div>
         <h2 className="text-4xl font-extrabold tracking-tight text-white">{title}</h2>
       </div>
-  
+
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {level.map((task: any) => (
           <div
             key={task.id}
             onClick={() => setSelectedTask(task)}
-            className="bg-[#0f172a] rounded-[24px] p-8 cursor-pointer group hover:bg-[#1e293b] transition-all border border-[#1e293b]/50 flex flex-col justify-between min-h-[200px] shadow-lg hover:shadow-2xl hover:-translate-y-1"
+            className="bg-[#0f172a] rounded-[32px] p-8 cursor-pointer group hover:bg-[#1e293b] transition-all border border-blue-500/20 hover:border-blue-500/50 flex flex-col justify-between min-h-[220px] shadow-lg hover:shadow-[0_0_30px_rgba(59,130,246,0.15)] hover:-translate-y-2"
           >
             <div>
               <h3 className="text-2xl font-black text-white mb-3 leading-tight tracking-tight">
@@ -123,12 +123,12 @@ export default function TaskList() {
                 {task.description || "Answer quiz & earn rewards"}
               </p>
             </div>
-  
+
             <div className="flex justify-between items-end mt-6">
               <span className="text-[#22c55e] font-black text-xl uppercase tracking-tighter">
                 +{task.reward} TOKENS
               </span>
-  
+
               <div className="flex items-center gap-1.5 text-sm font-bold text-gray-500 group-hover:text-white transition-colors">
                 Click <span className="text-lg group-hover:translate-x-1 transition-transform">→</span>
               </div>
@@ -138,7 +138,7 @@ export default function TaskList() {
       </div>
     </div>
   )
-  
+
   return (
     <div className="mt-12 pb-24 max-w-[1400px] mx-auto">
       {renderLevel(TASKS.level1, "Level 1", "from-emerald-400 to-emerald-600")}

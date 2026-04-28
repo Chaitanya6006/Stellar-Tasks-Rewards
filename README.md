@@ -83,16 +83,16 @@ The application follows a decentralized architecture:
 
 ## 📊 Documentation Links
 
-*   **User Feedback Form**: https://docs.google.com/forms/d/e/1FAIpQLSctp5FRKrIVz-tMt3AucGcrdulCRO_tVTxjnWyY9m-VemandA/viewform?usp=publish-editor
-*   **User Data & Analysis (Excel Download)**: "C:\Users\Admin\Desktop\Stellar-Task-Reward.New\docs\Untitled form.csv"
- 
+* **User Feedback Form**: https://docs.google.com/forms/d/e/1FAIpQLSctp5FRKrIVz-tMt3AucGcrdulCRO_tVTxjnWyY9m-VemandA/viewform?usp=publish-editor  
+* **User Data & Analysis (Excel Download)**: ./docs/feedback.xlsx  
+
 ---
 
 ## 📥 Feedback Data (Excel)
 
 All user responses collected during MVP testing are stored in an Excel file.
 
-👉 [Download Feedback Excel]("C:\Users\Admin\Desktop\Stellar-Task-Reward.New\docs\Untitled form.csv")
+👉 [Download Feedback Excel](./docs/feedback.xlsx)
 
 ## 🛠️ Implementation Tracking
 

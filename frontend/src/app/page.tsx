@@ -3,6 +3,7 @@
 import TaskList from "../components/TaskList"
 import WalletConnect from "../components/WalletConnect"
 import TokenBalance from "../components/TokenBalance"
+import Onboarding from "../components/Onboarding"
 import Link from "next/link"
 
 export default function Home() {
@@ -32,6 +33,9 @@ export default function Home() {
           </button>
         </Link>
       </div>
+
+      {/* 🔥 ONBOARDING SECTION */}
+      <Onboarding />
 
       {/* 🔥 TASK LIST */}
       <TaskList />

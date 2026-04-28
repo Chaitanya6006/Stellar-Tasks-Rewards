@@ -48,6 +48,14 @@ export default function WalletConnect() {
       >
         Connect Wallet
       </button>
+      <a
+        href="https://www.freighter.app/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-[10px] text-gray-500 hover:text-blue-400 transition ml-1"
+      >
+        Don't have Freighter? Get it here.
+      </a>
 
       {address && (
         <div className="flex flex-col mt-4">

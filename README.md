@@ -100,7 +100,9 @@ All user responses collected during MVP testing are stored in an Excel file.
 - Added **Onboarding Section** to guide new users through wallet connection.
 - Improved **UX Clarity** with Freighter installation links and better error messages.
 - Optimized **Leaderboard Loading** state for better responsiveness.
-- [Git Commit placeholder for changes]
+
+- Improvement Commit:
+https://github.com/Chaitanya6006/Stellar-Tasks-Rewards/commit/b3f2eb91640bd1163c8449160f1a8f0ce0583b82
 
 ---
 
@@ -147,7 +149,5 @@ If you are conducting user testing, please use the following fields:
 3.  **Ensure Freighter is installed** and set to **Testnet**.
 
 ---
-- Improvement Commit:
-https://github.com/Chaitanya6006/Stellar-Tasks-Rewards/commit/b3f2eb91640bd1163c8449160f1a8f0ce0583b82
 
 *Verified Submission for Level 5 MVP Requirements.*

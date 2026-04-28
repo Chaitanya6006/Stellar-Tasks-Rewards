@@ -92,7 +92,7 @@ The application follows a decentralized architecture:
 
 All user responses collected during MVP testing are stored in an Excel file.
 
-👉 [Download Feedback Excel](./docs/feedback.xlsx)
+👉 [Download Feedback Excel](https://github.com/Chaitanya6006/Stellar-Tasks-Rewards/raw/main/docs/feedback.xlsx)
 
 ## 🛠️ Implementation Tracking
 
